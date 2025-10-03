@@ -1,6 +1,6 @@
 streamlit
 pandas
 numpy
-altair==5.0.1
+altair
 matplotlib
 Pillow
