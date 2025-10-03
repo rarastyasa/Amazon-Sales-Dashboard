@@ -1,1 +1,5 @@
-streamlit\npandas\nseaborn\naltair\nmatplotlib
+streamlit==1.26.0
+pandas==2.1.1
+seaborn==0.12.2
+altair==5.0.1
+matplotlib==3.8.0
