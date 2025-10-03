@@ -77,5 +77,8 @@ Dashboard ini dibangun menggunakan teknologi berikut:
 - **Streamlit** – Framework untuk membuat aplikasi web interaktif.  
 - **Pandas** – Library untuk manipulasi dan analisis data.  
 - **Altair** – Library untuk membuat visualisasi interaktif.  
+---
 
+## 🔗 Live Demo
 
+Lihat langsung dashboard di Streamlit: [Amazon Sales Dashboard](https://amazon-sales-dashboard-2022.streamlit.app/)
